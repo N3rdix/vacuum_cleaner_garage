@@ -1,5 +1,5 @@
 # Building a smart vacuum roboto garage 
-<img src="/images/entering_robot.jpg" width=500><img src="/images/parked_robot.jpg" width=500>
+<img src="/images/entering_robot.jpg" height=350> <img src="/images/parked_robot.jpg" height=350>
 
 ## What you need
 - a vacuum robot of course :-)
