@@ -15,4 +15,6 @@
 ## Building the housing
 ## Wiring
 ## Programming the Arduino
-{code}Code will be shared{code}
+```cpp
+Code will be shared
+```
