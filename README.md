@@ -1,4 +1,6 @@
 # Building a smart vacuum roboto garage 
+<img src="/images/entering_robot.jpg" width=500><img src="/images/parked_robot.jpg" width=500>
+
 ## What you need
 - a vacuum robot of course :-)
 - an Arduino board with 5V power supply 
