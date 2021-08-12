@@ -1,4 +1,4 @@
-# Building a smart vacuum roboto garage 
+# Building a smart vacuum robot garage 
 <img src="/images/entering_robot.jpg" height=350> <img src="/images/parked_robot.jpg" height=350>
 
 ## What you need
