@@ -34,7 +34,9 @@ The sensor it fixed 2 plastic nuts. I wanted to be flexible when positioning the
 <img src="/images/sensor.jpg" height=350>
 
 ## Wiring
-
+Depends on your board, my setup is the following:
+- IR sensor connected to digital pin 2, GND and 5V
+- servo motor connected to digital pin 9, GND and 5V
 
 ## Programming the Arduino
 ```cpp
