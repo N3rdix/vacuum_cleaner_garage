@@ -19,7 +19,10 @@
   - screws
   - time
 ## Building the housing
+<img src="/images/servo.jpg" height=350> <img src="/images/sensor.jpg" height=350>
+
 ## Wiring
+
 ## Programming the Arduino
 ```cpp
 Code will be shared
