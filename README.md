@@ -26,12 +26,15 @@
 I used a routing machine to fix the base station on the ground, it cannot be moved by chance by the robot:
 <img src="/images/plate.jpg" height=350>
 
-### Closing mechanism 
-The servo needs a long enough threaded bar, otherwise it won't open the door wide enough:
-<img src="/images/servo.jpg" height=350> 
-
 The sensor it fixed 2 plastic nuts. I wanted to be flexible when positioning the sensor so I made a wider whole:
 <img src="/images/sensor.jpg" height=350>
+
+### Closing mechanism 
+Your kitchen panel can be fixed on the aluminum square profile with some screws. The round bar profile will be plugged into the square profile. Put the rawplugs into the round bar profile upfront, then it can be easily tightened with screws from the outside of the housing.
+<img src="/images/door.jpg" height=350> 
+
+The servo needs a long enough threaded bar, otherwise it won't open the door wide enough:
+<img src="/images/servo.jpg" height=350> 
 
 ## Wiring
 Depends on your board, my setup is the following:
