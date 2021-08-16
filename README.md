@@ -16,11 +16,20 @@
   - aluminum round bar profile (8mm)
   - 2 rawplugs which fit into the round bar profile
   - aluminum square profile (10mm)
+  - 3mm threaded bar from servo to door
   - some screws
   - time
-## Building the housing
-I <img src="/images/plate.jpg" height=350>
-<img src="/images/servo.jpg" height=350> <img src="/images/sensor.jpg" height=350>
+## Building the garage
+### Housing
+I used a routing machine to fix the base station on the ground, it cannot be moved by chance by the robot:
+<img src="/images/plate.jpg" height=350>
+
+### Closing mechanism 
+The servo needs a long enough threaded bar, otherwise it won't open the door wide enough:
+<img src="/images/servo.jpg" height=350> 
+
+The sensor it fixed 2 plastic nuts. I wanted to be flexible when positioning the sensor so I made a wider whole:
+<img src="/images/sensor.jpg" height=350>
 
 ## Wiring
 
