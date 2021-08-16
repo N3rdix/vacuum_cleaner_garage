@@ -1,6 +1,14 @@
 # Building a smart vacuum robot garage 
 <img src="/images/entering_robot.jpg" height=350> <img src="/images/parked_robot.jpg" height=350>
 
+# Table of contents
+  * [What you need](#what-you-need)
+  * [Building the garage](#building-the-garage)
+  * [Wiring](#wiring)
+  * [Fallback](#fallback)
+  * [Programming the Arduino](#programming-the-arduino)
+
+
 ## What you need
 - a vacuum robot of course :-)
 - **Electronics**
@@ -37,7 +45,8 @@ The servo needs a long enough threaded bar, otherwise it won't open the door wid
 <img src="/images/servo.jpg" height=350> 
 
 ## Wiring
-Depends on your board, my setup is the following:
+Unfortunately I don't have a schema for you, but I am sure you know how to connect the wires :-)
+My setup is the following:
 - IR sensor connected to digital pin 2, GND and 5V
 - servo motor connected to digital pin 9, GND and 5V
 
