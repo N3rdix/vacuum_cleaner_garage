@@ -7,8 +7,8 @@
   - an Arduino board with 5V power supply 
     - if communication via MQTT is required it should be a LAN/WIFI version
     - otherwise a simple Arduino Uno is sufficient
-  - a Servo motor with enough torque (~20kg, depending on the weight of your panel). I used this one: https://www.amazon.de/dp/B07KSCFNDK
-  - an IR sensor (measures the reflected light). I used a E18-D80NK, like this one: https://www.amazon.de/dp/B07DKGGHCD
+  - a Servo motor with enough torque (~20kg, depending on the weight of your panel). I used <a href="https://www.amazon.de/dp/B07KSCFNDK" target="_blank">this</a> one.
+  - an IR sensor (measures the reflected light). I used a E18-D80NK, like <a href="https://www.amazon.de/dp/B07DKGGHCD" target="_blank">this</a> one.
   - low voltage wires
 - some: 
   - wood (i used a poplar plate 500x500x8mm)
