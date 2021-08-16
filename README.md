@@ -41,7 +41,21 @@ Depends on your board, my setup is the following:
 - IR sensor connected to digital pin 2, GND and 5V
 - servo motor connected to digital pin 9, GND and 5V
 
+## Fallback
+You should consider to implement a fallback in case you can't move the robot to open the door. I use 2 things to be on the safe side:
+- a simple switch with 2 buttons to open/close the door. This overrules the sensor's state
+- open the door initially at power-on, e.g. after a power outage.
+- 
 ## Programming the Arduino
+Basic program flow:
+> - Initially open the door (calibrate the servo)
+> - check if the switch was pressed
+>  - if yes, open/close the door 
+>  - if not, check the IR sensor
+>    - if the robot is docked close the door
+>    - otherwise open the door
+
+
 ```cpp
 Code will be shared soon
 ```
