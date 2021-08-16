@@ -20,6 +20,8 @@
   - some screws
   - time
 ## Building the garage
+<img src="/images/sketch.jpg" height=350>
+
 ### Housing
 I used a routing machine to fix the base station on the ground, it cannot be moved by chance by the robot:
 <img src="/images/plate.jpg" height=350>
@@ -33,7 +35,8 @@ The sensor it fixed 2 plastic nuts. I wanted to be flexible when positioning the
 
 ## Wiring
 
+
 ## Programming the Arduino
 ```cpp
-Code will be shared
+Code will be shared soon
 ```
