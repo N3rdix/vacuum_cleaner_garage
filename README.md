@@ -66,5 +66,5 @@ Basic program flow:
 
 
 ```cpp
-Code will be shared soon
+see code folder
 ```
